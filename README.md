@@ -1,4 +1,3 @@
 ## Run the example
 
-- [View it with Exponent](https://getexponent.com/@rncommunity/react-native-tab-view-demos)
-- Clone this repository, run `npm install` within this directory, and open it using [XDE](https://docs.getexponent.com/versions/latest/introduction/installation.html).
+- Clone this repository, run `npm install` within this directory, and npm start for more details  [CRNA](https://github.com/react-community/create-react-native-app).
